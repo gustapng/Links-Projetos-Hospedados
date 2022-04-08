@@ -2,8 +2,10 @@
 Links dos meus projetos que estão nos repositórios, funcionando na hospedagem do GitHub.
 
 
-Página 1, realizada durante curso na Udemy.  Link: https://gustapng.github.io/Pag-01-CursoUdemy/
+Página 1, realizada durante curso na Udemy.  Link: https://gustapng.github.io/Pag-01-CursoUdemy/;
 
-Landing page 1, realizada para estudo pessoal com auxilio do vídeo https://www.youtube.com/watch?v=edDCEK5QWE8&t=1s  Link: https://gustapng.github.io/Landing-Page-01-Estudo/
+Página 2, realizada durante curso na Udemy.  Link: https://gustapng.github.io/Pag-02-CursoUdemy-/index.html/;
 
-Landing page 2, realizada para estudo pessoal Link: https://gustapng.github.io/Landing-Page-02-Estudos/
+Landing page 1, realizada para estudo pessoal com auxilio do vídeo https://www.youtube.com/watch?v=edDCEK5QWE8&t=1s  Link: https://gustapng.github.io/Landing-Page-01-Estudo/;
+
+Landing page 2, realizada para estudo pessoal Link: https://gustapng.github.io/Landing-Page-02-Estudos/;
