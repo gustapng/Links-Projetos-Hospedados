@@ -6,6 +6,8 @@ Página 1 feita com Bootstrap 4. https://gustapng.github.io/Pagina-com-Bootstrap
 
 Página 2 feita com bootstrap 4, copia do Spotify. https://gustapng.github.io/Pagina-Spotify/
 
+Página 3 feita com bootstrap 4. https://gustapng.github.io/Pagina-Spotify/
+
 Página 1, realizada durante curso na Udemy.  Link: https://gustapng.github.io/Pag-01-CursoUdemy/;
 
 Página 2, realizada durante curso na Udemy.  Link: https://gustapng.github.io/Pag-02-CursoUdemy-/index.html;
