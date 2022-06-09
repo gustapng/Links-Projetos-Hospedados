@@ -2,11 +2,11 @@
 Links dos meus projetos que estão nos repositórios, funcionando na hospedagem do GitHub.
 
 
-Página 1 feita com Bootstrap 4. https://gustapng.github.io/Pagina-com-Bootstrap-001/
+Página 1 feita com Bootstrap 4. <a href="https://gustapng.github.io/Pagina-com-Bootstrap-001/" target="_blank">Página 1</a>
 
-Página 2 feita com bootstrap 4, copia do Spotify. <a href="https://gustapng.github.io/Pagina-Spotify/" target="_blank">Página Spotify</a>
+Página 2 feita com bootstrap 4, copia do Spotify. <a href="https://gustapng.github.io/Pagina-Spotify/" target="_blank">Página 2 - Copia Spotify</a>
 
-Página 3 feita com bootstrap 4. https://gustapng.github.io/Pagina-com-Bootstrap-002/
+Página 3 feita com bootstrap 4. <a href="https://gustapng.github.io/Pagina-com-Bootstrap-002/" target="_blank"> Página 3</a>
 
 Página 1, realizada durante curso na Udemy.  Link: https://gustapng.github.io/Pag-01-CursoUdemy/;
 
