@@ -8,10 +8,10 @@ Página 2 feita com bootstrap 4, copia do Spotify. <a href="https://gustapng.git
 
 Página 3 feita com bootstrap 4. <a href="https://gustapng.github.io/Pagina-com-Bootstrap-002/" target="_blank"> Página 3</a>
 
-Página 1, realizada durante curso na Udemy.  Link: https://gustapng.github.io/Pag-01-CursoUdemy/;
+Página 1, realizada durante curso na Udemy. <a href="https://gustapng.github.io/Pag-01-CursoUdemy/" target="_blank"> Página 1</a>
 
-Página 2, realizada durante curso na Udemy.  Link: https://gustapng.github.io/Pag-02-CursoUdemy-/index.html;
+Página 2, realizada durante curso na Udemy. <a href="https://gustapng.github.io/Pag-02-CursoUdemy/" target="_blank"> Página 2</a>
 
-Landing page 1, realizada para estudo pessoal com auxilio do vídeo https://www.youtube.com/watch?v=edDCEK5QWE8&t=1s  Link: https://gustapng.github.io/Landing-Page-01-Estudo/;
+Landing page 1, realizada para estudo pessoal com auxilio do vídeo: <a href="https://www.youtube.com/watch?v=edDCEK5QWE8&t=1s" target="_blank">Vídeo</a> <a href="https://gustapng.github.io/Landing-Page-01-Estudo/" target="_blank"> Lan</a>
 
-Landing page 2, realizada para estudo pessoal Link: https://gustapng.github.io/Landing-Page-02-Estudos/;
+Landing page 2, realizada para estudo pessoal Link: <a href="https://gustapng.github.io/Landing-Page-02-Estudos/" target="_blank"> Lan</a>
