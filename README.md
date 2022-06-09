@@ -4,7 +4,7 @@ Links dos meus projetos que estão nos repositórios, funcionando na hospedagem 
 
 Página 1 feita com Bootstrap 4. https://gustapng.github.io/Pagina-com-Bootstrap-001/
 
-Página 2 feita com bootstrap 4, copia do Spotify. https://gustapng.github.io/Pagina-Spotify/
+Página 2 feita com bootstrap 4, copia do Spotify. <a href="https://gustapng.github.io/Pagina-Spotify/" target="_blank"></a>
 
 Página 3 feita com bootstrap 4. https://gustapng.github.io/Pagina-com-Bootstrap-002/
 
